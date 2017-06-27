@@ -1,6 +1,5 @@
 # Basic-Portfolio
-HTML/CSS portfolio beginnings
+HTML/CSS portfolio with additional features to make it responsive to various media types. 
 
-
-6/14/17
+6/27/17
 
