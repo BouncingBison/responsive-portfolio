@@ -1,0 +1,224 @@
+#nameTag h1 {
+    height: 90px;
+    width: 250px;
+    background-color: grey;
+    font-size: 175%;
+    font-weight: bold;
+    font-color: white;
+    font-family: Times, serif;
+    text-align: center;
+    margin-top: -19px;
+}
+
+.container {
+    position: relative;
+    margin: 0 auto;
+    width: 94%;
+    max-width: 960px;
+}
+
+#header {
+    z-index: 2;
+    width: 100%;
+    height: 90px;
+    line-height: 60px;
+    background: white;
+    color: white;
+    border-bottom-width: 960px;
+    border-bottom-color: grey;
+    margin-bottom: 50px;
+}
+
+#nav {
+    position: absolute;
+    right: 0;
+    top: -15px;
+    height: 60px;
+    font-family: helvetica, sans-serif;
+}
+
+#nav ul li {
+    float: left;
+    list-style: none;
+}
+
+#nav ul li a {
+    display: block;
+    color: grey;
+    text-decoration: none;
+    padding: 0 10px;
+}
+
+.socialMedia {
+    float: right;
+    margin-right: 180px;
+    width: 270px;
+    height: 200px;
+    background-color: tan;
+}
+
+.mediaButton1 {
+    padding-left: 35px;
+    padding-top: 10px;
+}
+
+.mediaButton2 {
+    padding-left: 0px;
+    padding-top: 10px;
+}
+
+.mediaButton3 {
+    padding-left: 0px;
+    padding-top: 10px;
+}
+
+#connect {
+    font-size: 150%;
+    font-style: black;
+    padding-top: 10px;
+    padding-left: 42px;
+    padding-right: 40px;
+}
+
+.content {
+	position: absolute;
+    float: left;
+    margin-left: 81px;
+    padding: 10px;
+    width: 650px;
+    height: auto;
+    background-color: tan;
+}
+
+.backround {
+    background-image: url("/Users/ross/Basic-Portfolio/assets/images/pentagon.png")
+}
+
+#footer {
+    position: bottom;
+    bottom: 0;
+    width: 100%;
+    height: 40px;
+    margin-top:20px;
+    background: grey;
+    text-align: center;
+    font-style: white;
+}
+
+.label{
+
+	float:left;
+	margin-bottom:15px;
+	width:50px;
+	text-align:right;
+	padding-right: 10px;
+	margin-top: 10px;
+	clear: left;
+
+}
+
+.info{
+
+	margin-top:10px;
+}
+
+#submit {
+    display: block;
+    height: 25px;
+    width: 65px;
+    background-color: green;
+    border-radius: 50%;
+    border: solid green;
+}
+
+
+
+#pro1{
+	position:static;
+	margin-top:30px;
+	margin-left:40px;
+	height:200px;
+	width:260px;
+	background-image:url(/Users/ross/Basic-Portfolio/assets/images/holder.jpg);
+}
+
+#pro2{
+	position:relative;
+	left:350px;
+	top:-200px;
+	height:200px;
+	width:260px;
+	background-image:url(/Users/ross/Basic-Portfolio/assets/images/holder.jpg);
+}
+
+#pro3{
+	position:relative;
+	float:left;
+	top:-150px;
+	margin-left:40px;
+	height:200px;
+	width:260px;
+	background-image:url(/Users/ross/Basic-Portfolio/assets/images/holder.jpg);
+}
+
+#pro4{
+	position: relative;
+	top:-154px;
+	left: 350px;
+	height:200px;
+	width:260px;
+	background-image:url(/Users/ross/Basic-Portfolio/assets/images/holder.jpg);
+}
+
+#pro5{
+	position:relative;
+	float:left;
+	height:200px;
+	width:260px;
+	margin-left:40px;
+	top:-120px;
+	background-image:url(/Users/ross/Basic-Portfolio/assets/images/holder.jpg);
+}
+
+#proOne{
+	position:static;
+	margin-top:30px;
+	margin-left:40px;
+	height:90px;
+	width:260px;
+	background-color:grey;
+}
+#proTwo{
+	position:relative;
+	left:350px;
+	top:-650px;
+	height:90px;
+	width:260px;
+	background-color:grey;
+}
+#proThree{
+	position:relative;
+	float:left;
+	top:-495px;
+	margin-left:40px;
+	height:90px;
+	width:260px;
+	background-color:grey;
+}
+#proFour{
+	position: relative;
+	top:-495px;
+	left: 350px;
+	height:90px;
+	width:260px;
+	background-color:grey;
+}
+#proFive{
+	position:relative;
+	float:left;
+	height:90px;
+	width:260px;
+	margin-left:40px;
+	top:-350px;
+	background-color:grey;
+}

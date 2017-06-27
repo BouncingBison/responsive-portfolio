@@ -1,2 +1,6 @@
-# responsive-portfolio
-Responsive Portfolio assignment for week 3 of KUCB 
+# Basic-Portfolio
+HTML/CSS portfolio beginnings
+
+
+6/14/17
+
